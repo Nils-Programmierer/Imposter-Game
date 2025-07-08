@@ -28,8 +28,7 @@ Dieses Projekt verwendet HTML, CSS und JavaScript.
 5. **Spielende durch Zeit oder Wortruf:**  
    - Das Spiel läuft, bis entweder das Zeitlimit erreicht ist  
    **oder**  
-   - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus.  
-     Wenn es richtig ist, haben die Imposter gewonnen!  
+   - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus. Wenn es richtig ist, haben die Imposter gewonnen!  
    **In beiden Fällen endet die Runde sofort.**
 
 6. **Diskussion und Abstimmung:**  
