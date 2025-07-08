@@ -12,11 +12,11 @@ Dieses Projekt verwendet HTML, CSS und JavaScript.
 
 2. **Spieler hinzufügen & Imposter-Anzahl festlegen:**  
    Gebt die Namen aller Mitspieler ein. Anschließend legt ihr fest, wie viele Imposter mitspielen sollen.
-   Empfohlene Anzahl an Impostern je nach Spielerzahl:
-     -3–6 Spieler → 1 Imposter
-     -7–8 Spieler → 2 Imposter
-     -9-10 Spieler → 3 Imposter
-     -11+ Spieler → 4+ Imposter
+   **Empfohlene Anzahl an Impostern je nach Spielerzahl:**
+   - 3–6 Spieler → 1 Imposter  
+   - 7–8 Spieler → 2 Imposter  
+   - 9–10 Spieler → 3 Imposter  
+   - 11+ Spieler → 4+ Imposter
 
 4. **Wortvergabe:**  
    Allen Spielern wird dasselbe geheime Wort angezeigt – außer den Impostern, die ihre Rolle als Imposter angezeigt bekommen.
