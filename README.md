@@ -26,16 +26,16 @@ Dieses Projekt verwendet HTML, CSS und JavaScript.
    Reihum nennt jeder einen passenden Hinweis zum geheimen Wort – nicht zu offensichtlich, um dem Imposter keine Hilfe zu geben, aber auch nicht zu vage, sonst wirkt man verdächtig.
 
 6. **Spielende durch Zeit oder Wortruf:**  
-  - Das Spiel läuft, bis entweder ein **Zeitlimit** (z. B. 1–2 Minuten) erreicht ist  
+  - Das Spiel läuft, bis entweder das Zeitlimit erreicht ist  
    **oder**  
-   - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus.  
-   In beiden Fällen endet die Runde sofort.
+   - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus. Wenn es richtig ist, haben die Imposter gewonnen! 
+   **In beiden Fällen endet die Runde sofort.**
 
 7. **Diskussion und Abstimmung:**  
-   Falls die Zeit abgelaufen ist, diskutiert die Gruppe, wer verdächtig wirkt. Danach stimmt jeder geheim ab, wer der oder die Imposter sind.
+   Falls die Zeit abgelaufen ist, diskutiert die Gruppe, wer verdächtig wirkt. Danach stimmt jeder ab, wer der oder die Imposter sind.
    
 8. **Auflösung:**  
-   Die Imposter werden enthüllt – und das Wort ebenfalls. So erfahrt ihr, ob die ehrlichen Spieler gut genug getäuscht haben oder der Bluff der Imposter erfolgreich war.
+   Die Imposter werden enthüllt – und das Wort ebenfalls. So erfahrt ihr, ob die ehrlichen Spieler gut genug getäuscht haben oder der Bluff der Imposter erfolgreich war. Wurden die Imposter erfolgreich durch die Abstimmung gefunden, haben die Imposter verloren.
 
 ---
 
