@@ -26,10 +26,10 @@ Dieses Projekt verwendet HTML, CSS und JavaScript.
    Reihum nennt jeder einen passenden Hinweis zum geheimen Wort – nicht zu offensichtlich, um dem Imposter keine Hilfe zu geben, aber auch nicht zu vage, sonst wirkt man verdächtig.
 
 5. **Spielende durch Zeit oder Wortruf:**  
-  - Das Spiel läuft, bis entweder das Zeitlimit erreicht ist  
+   - Das Spiel läuft, bis entweder das Zeitlimit erreicht ist  
    **oder**  
-  - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus. Wenn es richtig ist, haben die Imposter gewonnen!
-
+   - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus.  
+     Wenn es richtig ist, haben die Imposter gewonnen!  
    **In beiden Fällen endet die Runde sofort.**
 
 6. **Diskussion und Abstimmung:**  
