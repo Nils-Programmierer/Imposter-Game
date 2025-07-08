@@ -19,22 +19,22 @@ Dieses Projekt verwendet HTML, CSS und JavaScript.
    - 9–10 Spieler → 3 Imposter  
    - 11+ Spieler → 4+ Imposter
 
-4. **Wortvergabe:**  
+3. **Wortvergabe:**  
    Allen Spielern wird dasselbe geheime Wort angezeigt – außer den Impostern, die ihre Rolle als Imposter angezeigt bekommen.
 
-5. **Hinweise geben:**  
+4. **Hinweise geben:**  
    Reihum nennt jeder einen passenden Hinweis zum geheimen Wort – nicht zu offensichtlich, um dem Imposter keine Hilfe zu geben, aber auch nicht zu vage, sonst wirkt man verdächtig.
 
-6. **Spielende durch Zeit oder Wortruf:**  
+5. **Spielende durch Zeit oder Wortruf:**  
   - Das Spiel läuft, bis entweder das Zeitlimit erreicht ist  
    **oder**  
-   - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus. Wenn es richtig ist, haben die Imposter gewonnen! 
+  - Einer der Imposter glaubt, das geheime Wort zu kennen und ruft es laut aus. Wenn es richtig ist, haben die Imposter gewonnen!
    **In beiden Fällen endet die Runde sofort.**
 
-7. **Diskussion und Abstimmung:**  
+6. **Diskussion und Abstimmung:**  
    Falls die Zeit abgelaufen ist, diskutiert die Gruppe, wer verdächtig wirkt. Danach stimmt jeder ab, wer der oder die Imposter sind.
    
-8. **Auflösung:**  
+7. **Auflösung:**  
    Die Imposter werden enthüllt – und das Wort ebenfalls. So erfahrt ihr, ob die ehrlichen Spieler gut genug getäuscht haben oder der Bluff der Imposter erfolgreich war. Wurden die Imposter erfolgreich durch die Abstimmung gefunden, haben die Imposter verloren.
 
 ---
