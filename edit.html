@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bearbeiten | Imposter</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="img/icon512_maskable.png" type="image/png">
+</head>
+
+<header>
+    <div class="align-middle">
+        <div class="headline" onclick='window.location.href="index.html"'>Imposter</div>
+    </div>
+    <div class="header-left">
+        <nav>
+            <a href="guide.html">Anleitung</a>
+        </nav>
+    </div>
+</header>
+
+<body onload="LoadWords();">
+    <div class="content">
+        <h3>Bearbeiten:</h3>
+        <button type="submit" class="save" onclick='window.location.href="index.html"'>Zurück</button>
+        <br>
+        <br>
+        <button type="submit" class="delete" onclick="Delete();">Kategorie Löschen</button>
+        <br>
+        <br>
+        <br>
+        <h3>Hinzufügen:</h3>
+        <input type="text" id="word" placeholder="Begriff" required>
+        <br>
+        <button type="submit" class="save" onclick="AddWord();">Hinzufügen</button>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h3>Alle Begriffe:</h3>
+        <div class="text" id="all-words"></div>
+
+
+    </div>
+    <br>
+    <br>
+
+
+</body>
+
+</html>

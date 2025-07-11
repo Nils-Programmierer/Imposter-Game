@@ -1,0 +1,26 @@
+{
+    "theme_color": "#817e7e",
+    "background_color": "#1b1b1d",
+    "icons": [
+        {
+            "purpose": "maskable",
+            "sizes": "512x512",
+            "src": "img/icon512_maskable.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "src": "img/icon512_rounded.png",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "de",
+    "name": "Imposter Game",
+    "short_name": "Imposter Game",
+    "start_url": "/Imposter-Game/index.html",
+    "description": "In Imposter bekommt jeder Mitspieler dasselbe geheime Wort – außer dem Imposter! Runde für Runde nennt jeder einen Begriff, der zum Wort passt, ohne zu viel zu verraten. Ziel ist es, den Imposter zu enttarnen, bevor dieser errät, welches Wort gesucht wird. Es gibt verschiedene Kategorien, und eigene Kategorien lassen sich einfach anlegen. Perfekt für spannende Spielabende mit Freunden!"
+}

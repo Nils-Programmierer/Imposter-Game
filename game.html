@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spiel | Imposter</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="img/icon512_maskable.png" type="image/png">
+</head>
+
+<header>
+    <div class="align-middle">
+        <div class="headline" onclick='window.location.href="index.html"'>Imposter</div>
+    </div>
+    <div class="header-left">
+        <nav>
+            <a href="guide.html">Anleitung</a>
+        </nav>
+    </div>
+</header>
+
+<body onload="StartGame();">
+    <div class="content">
+        <h1 class="justify-middle">Die Zeit läuft</h1>
+        <br>
+        <br>
+        <div id="time" class="justify-middle time">
+            02:00
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div id="first" class="text justify-middle"></div>
+
+        <br>
+        <br>
+        <br>
+
+
+        <div class="justify-middle">
+            <button class="next" id="btn" onclick='window.location.href="solution.html"'>Auflösen</button>
+        </div>
+    </div>
+
+
+    <audio id="alarm-sound" src="sounds/alarm.mp3" preload="auto"></audio>
+    <audio id="start-sound" src="sounds/start.wav" preload="auto"></audio>
+
+</body>
+
+</html>

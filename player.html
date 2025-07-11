@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mitspieler | Imposter</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="img/icon512_maskable.png" type="image/png">
+</head>
+
+<header>
+    <div class="align-middle">
+        <div class="headline" onclick='window.location.href="index.html"'>Imposter</div>
+    </div>
+    <div class="header-left">
+        <nav>
+            <a href="guide.html">Anleitung</a>
+        </nav>
+    </div>
+</header>
+
+<body onload="CheckCategory();">
+    <div class="content">
+        <h1>Mitspieler:</h1>
+        <br>
+        <div class="block" id="player">
+            <input name="player 1" id="player 1" type="text" placeholder="Spieler 1">
+            <input name="player 2" id="player 2" type="text" placeholder="Spieler 2">
+            <input name="player 3" id="player 3" type="text" placeholder="Spieler 3">
+        </div>
+        <button class="add-player" onclick='AddPlayer();'>+</button>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <h2>Anzahl der Imposter:</h2>
+        <select id="number">
+            <option value="1" selected>1</option>
+        </select>
+
+        <br>
+        <br>
+        <br>
+
+    </div>
+
+
+    <div class="add-btn">
+        <button class="add all-middle" onclick='Next();'>
+            <img src="img/play_arrow.png" alt="Play Symbol" class="play">
+        </button>
+    </div>
+
+
+</body>
+
+</html>
